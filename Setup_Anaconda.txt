@@ -1,0 +1,29 @@
+chrome://settings/
+chrome://net-internals/#hsts
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+https://www.tensorflow.org/install/install_windows
+
+command of conda:
+conda install keras
+conda create -n tensorflow pip python=3.5
+conda install mkl=2017
+conda install mkl=2018
+conda list
+
+MKL_THREADING_LAYER=GNU
+
+
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/
+https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/
+https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
+https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+
+
+cmd:
+pima-indians-diabetes-test
